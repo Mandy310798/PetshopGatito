@@ -5,7 +5,7 @@
 
 ## Imagem do projeto
 
-![Dashboard](PowerBI-PrimeiroDashboard-Aula3-Material)
+![Dashboard](https://github.com/Mandy310798/PetshopGatito/blob/main/Imagem%20do%20dashboard.jpg)
 
 &nbsp;
 
